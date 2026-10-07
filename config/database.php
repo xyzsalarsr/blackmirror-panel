@@ -3,8 +3,8 @@
 class Database {
     private $host = 'localhost';
     private $db_name = 'mahdiism_adminpanel';
-    private $username = 'mahdiism_adminpanel_user';
-    private $password = 'v8x@A$dx9YM$N@Thd@qASH12nHc';
+    private $username = 'blackmirror';
+    private $password = 'U5qb@VjjFH@RDtANzs85wG';
     private $conn;
 
     public function connect() {
@@ -22,3 +22,4 @@ class Database {
         return $this->conn;
     }
 }
+

@@ -125,7 +125,7 @@ require_once __DIR__ . '/../layouts/sidebar.php';
                 </div>
                 <div class="form-group">
                     <label>مبلغ (تومان)</label>
-                    <input type="number" name="amount" required placeholder="0" value="800000">
+                    <input type="number" name="amount" required placeholder="0" value="470000">
                 </div>
                 <div class="form-group">
                     <label>کد اشتراک <small>(اختیاری)</small></label>

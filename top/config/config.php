@@ -2,7 +2,7 @@
 // config/config.php
 session_start();
 
-define('BASE_URL', 'https://mahdiism.xyz');
+define('BASE_URL', 'https://mahdiism.xyz/top');
 define('PUBLIC_URL', BASE_URL . '/public');
 
 function isLoggedIn() {
